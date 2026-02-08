@@ -1,4 +1,4 @@
-# WorkLedger  
+# WorkLedger-for-Staffing
 **人材派遣管理システム（業務・法令・利益を一元管理するインテリジェンス・ボード）**
 
 WorkLedger は、人材派遣業における  
